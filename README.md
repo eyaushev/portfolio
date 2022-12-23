@@ -21,7 +21,7 @@
 
 ### Навыки
 
- ``` Функциональное тестирование ``` ``` Тестирование мобильных приложений ``` ``` Тестирование Web-приложений ``` ``` Тестирование API ``` ``` Postman ``` ``` Fiddler ``` ``` Charles ``` ``` Git  ``` ``` SQL ``` ``` Locust ``` ``` Appium ``` ``` Allure ``` ``` Jira ``` ``` TestRail ``` ``` Kibana ``` ``` Linux ``` ``` Charles ``` ``` RabbitMQ ``` ``` Python ``` ``` Java ``` ``` TypeScript ``` ``` Dart ``` ``` Django ``` ``` Flutter ``` ``` Selenium ```  ``` Scrum ``` 
+ ``` Функциональное тестирование ``` ``` Тестирование мобильных приложений ``` ``` Тестирование Web-приложений ``` ``` Тестирование API ``` ``` Postman ``` ``` Fiddler ``` ``` Charles ``` ``` Git  ``` ``` SQL ``` ``` Locust ``` ``` Appium ``` ``` Jira ``` ``` TestRail ``` ``` Allure TestOps ``` ``` Kibana ``` ``` Linux ``` ``` Charles ``` ``` RabbitMQ ``` ``` Python ``` ``` Java ``` ``` TypeScript ``` ``` Dart ``` ``` Django ``` ``` Django Rest Framework ``` ``` Flutter ``` ``` Selenium ```  ``` Scrum ``` ``` Kanban ``` ``` TeamCity ``` ``` GitlabCI ```
 
 ### Личные и фриланс проекты
 | Проект | Описание | Стек технологий |
